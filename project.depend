@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1704230322 source:c:\users\valan\onedrive\documents\code blocks\pattern\project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+

@@ -1,0 +1,25 @@
+Booking record...
+
+Booking Id        :1
+Movie Name        :Adventure Island
+Show Time         :10.15
+Number Of Tickets :3
+Total Price       :570
+
+Booking Id        :2
+Movie Name        :Interstellar
+Show Time         :9.05
+Number Of Tickets :3
+Total Price       :480
+
+Booking Id        :3
+Movie Name        :Interstellar
+Show Time         :7.10
+Number Of Tickets :2
+Total Price       :320
+
+Booking Id        :4
+Movie Name        :Adventure Island
+Show Time         :13.30
+Number Of Tickets :4
+Total Price       :760

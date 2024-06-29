@@ -1,0 +1,7 @@
+Booking Id:1
+Movie Name:Interstellar
+Show Time:7.10
+Number Of Tickets:2
+Total Price:320
+
+
